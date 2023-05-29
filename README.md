@@ -1,2 +1,2 @@
 # comAI
-Chat with Text Files Using LangChain, Rest API (Fast API), FrontendHTML, JavaScript, tailwindcss
+Chat with Text Files Using LangChain,fastAPI, Frontend : HTML, JavaScript, tailwindcss
